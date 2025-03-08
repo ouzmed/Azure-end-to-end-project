@@ -1,0 +1,9 @@
+{
+	"name": "adfactoy-dev001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0bfe8631-3a08-424c-8456-efbc1d726687",
+		"tenantId": "20b2aeee-1ffd-470d-a4e9-e1c5fc9b5116"
+	}
+}
