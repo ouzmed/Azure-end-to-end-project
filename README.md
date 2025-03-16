@@ -1,6 +1,7 @@
 # Azure-end-to-end-project
 This project serves as a complete guide to building an end-to-end data engineering solution on Azure. It introduces key tools, advanced techniques, and industry best practices, making it a valuable resource for aspiring data engineers looking to sharpen their expertise.
-![Uploading architecture.jpg…]()
+
+![Uploading image.png…]()
 
 
 ## Key Features
